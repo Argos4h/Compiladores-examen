@@ -1,0 +1,21 @@
+LA SECCIÓN A CONTINUACIÓN ES PARA SERVIDORES
+ AUTOHOSPEDADOS
+
+Ingresa la dirección del servidor a continuación
+ y conéctate a él.
+
+
+
+Configuraciones Avanzadas:
+Ingresa el protocolo IP del servidor 
+(IPv4 es el predeterminado)
+
+
+
+
+
+
+
+
+
+                       IPv4                               IPv6

@@ -1,0 +1,4 @@
+Esto se llama algoritmo
+MiniMax y se utiliza con la técnica de optimización 
+alpha-beta. Actualmente, está configurado
+para jugar como un jugador promedio (débil) de ajedrez.

@@ -1,0 +1,4 @@
+Juega ajedrez contra el motor de ajedrez StockFish,
+el mejor motor de ajedrez del mundo. 
+Este juega a un nivel muy difícil de ajedrez;
+No se recomienda para principiantes.

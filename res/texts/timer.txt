@@ -1,0 +1,20 @@
+
+Configura el temporizador del juego a la partida de ajedrez
+multijugador.
+
+Elige el número de minutos que cada lado 
+tendrá para completar la partida.
+
+ESCOJE:      30     15     10     05     03     01
+
+
+Elige los segundos que se añadirán por movimiento
+realizado.
+ESCOJE:      00     01     02     03     04
+
+
+El número de segundos que seleccionaste se añadirá a tu
+temporizador para cada movimiento que realices.
+
+
+¿listo para comenzar a jugar?             Start
